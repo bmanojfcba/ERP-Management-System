@@ -1,0 +1,21 @@
+emp_id,emp_name,email,phone,salary,dept_id
+1,Arjun Kumar,arjun.kumar@company.com,8746317213,42592,1
+2,Priya Sharma,priya.sharma@company.com,6107420369,64048,2
+3,Karthik Reddy,karthik.reddy@company.com,7051802512,57256,3
+4,Sneha Patel,sneha.patel@company.com,6599310825,41434,4
+5,Rahul Verma,rahul.verma@company.com,8906402157,99482,5
+6,Ananya Iyer,ananya.iyer@company.com,6373399426,105397,6
+7,Vikram Singh,vikram.singh@company.com,7812140441,32165,7
+8,Divya Nair,divya.nair@company.com,6127978094,40280,8
+9,Rohit Mehta,rohit.mehta@company.com,6939042955,58495,9
+10,Kavya Rao,kavya.rao@company.com,8170484433,106907,10
+11,Sanjay Gupta,sanjay.gupta@company.com,6113971123,101563,11
+12,Meera Das,meera.das@company.com,6854001193,113181,12
+13,Aditya Mishra,aditya.mishra@company.com,9012167820,99426,13
+14,Pooja Kapoor,pooja.kapoor@company.com,7801823908,56893,14
+15,Nikhil Joshi,nikhil.joshi@company.com,7929338154,105236,15
+16,Aishwarya Menon,aishwarya.menon@company.com,7194819984,28851,16
+17,Manoj Bansal,manoj.bansal@company.com,9259052811,48926,17
+18,Neha Chopra,neha.chopra@company.com,8998485882,83392,18
+19,Varun Malhotra,varun.malhotra@company.com,7461364854,64421,19
+20,Swathi Agarwal,swathi.agarwal@company.com,6667779376,56221,20

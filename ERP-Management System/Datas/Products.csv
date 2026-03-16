@@ -1,0 +1,21 @@
+product_id,product_name,price,stock,category_id,supplier_id
+1,Laptop,66112,111,1,1
+2,Desktop PC,67042,74,2,2
+3,Office Chair,82459,172,3,3
+4,Printer,84248,279,4,4
+5,Wi-Fi Router,80318,121,5,5
+6,CCTV Camera,20532,211,6,6
+7,Software License,21674,296,7,7
+8,Stapler Pack,70014,20,8,8
+9,Projector,79004,185,9,9
+10,Server Rack,64542,29,10,10
+11,UPS Battery,15162,205,11,11
+12,Air Conditioner,40806,142,12,12
+13,Tool Kit,8092,143,13,13
+14,Safety Helmet,74864,60,14,14
+15,Packaging Box,11726,268,15,15
+16,Printing Paper A4,9571,292,16,16
+17,LED Bulb,16983,85,17,17
+18,Spare Parts Kit,62796,104,18,18
+19,Network Switch,35241,290,19,19
+20,First Aid Kit,80007,236,20,20

@@ -1,0 +1,21 @@
+log_id,table_name,action_type,action_date,performed_by
+1,Orders,DELETE,2025-05-07 15:03:08,user9
+2,Inventory,UPDATE,2024-07-14 01:14:21,user2
+3,Employees,DELETE,2024-11-25 00:01:28,user9
+4,Employees,INSERT,2024-09-16 01:56:40,user5
+5,Purchase_Orders,UPDATE,2024-05-05 12:06:22,user15
+6,Inventory,DELETE,2024-11-28 04:39:43,user18
+7,Employees,INSERT,2024-02-28 10:38:49,user5
+8,Inventory,INSERT,2025-10-10 05:58:43,user12
+9,Inventory,DELETE,2024-04-25 00:40:05,user14
+10,Orders,INSERT,2024-08-27 10:21:07,user12
+11,Employees,UPDATE,2024-06-12 04:06:37,user8
+12,Purchase_Orders,INSERT,2024-10-01 17:02:51,user18
+13,Payments,DELETE,2025-08-05 03:16:31,user5
+14,Orders,INSERT,2026-01-28 05:47:57,user6
+15,Payments,INSERT,2024-05-19 07:31:30,user11
+16,Payments,DELETE,2025-11-02 03:19:15,user8
+17,Products,INSERT,2025-09-03 13:43:28,user4
+18,Payments,INSERT,2025-10-28 21:20:17,user16
+19,Orders,INSERT,2025-09-26 06:16:39,user15
+20,Products,UPDATE,2025-09-29 07:54:24,user8

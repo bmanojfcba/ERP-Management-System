@@ -1,0 +1,21 @@
+return_id,order_id,return_date,reason
+1,14,2025-02-02,Defective product
+2,1,2025-08-12,Late delivery
+3,16,2024-01-07,Model mismatch
+4,10,2025-02-03,Late delivery
+5,18,2026-01-22,Defective product
+6,20,2024-08-13,Late delivery
+7,8,2024-10-06,Late delivery
+8,16,2024-01-30,Late delivery
+9,11,2025-11-15,Late delivery
+10,6,2025-04-23,Wrong item delivered
+11,20,2025-06-30,Damaged item
+12,13,2025-08-29,Defective product
+13,1,2024-03-26,Late delivery
+14,5,2025-04-17,Wrong item delivered
+15,2,2024-09-23,Late delivery
+16,11,2024-08-04,Late delivery
+17,11,2024-12-11,Late delivery
+18,9,2025-03-07,Model mismatch
+19,3,2025-04-26,Damaged item
+20,18,2024-02-23,Model mismatch
